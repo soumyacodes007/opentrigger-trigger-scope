@@ -17,6 +17,12 @@ It is the open-source pillar of the CROPS set (censorship resistant, open source
 
 Network: Arkiv Tiramisu testnet (chain id 7738577). Explorer: https://tiramisu.explorer.arkiv.network
 
+## Screenshot
+
+<p align="center">
+  <img src="docs/screenshots/trigger-scope.png" alt="Trigger Scope app screenshot" width="1200" />
+</p>
+
 ## Pages
 
 | Route | What it shows |
